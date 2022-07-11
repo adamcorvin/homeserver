@@ -5,15 +5,6 @@
 
 
 
-**PLEX UPDATE**
-
-    sudo service plexmediaserver stop
-    sudo wget https://downloads.plex.tv/plex-media-server-new/plexmediaserver
-    sudo dpkg -i plexmediaserver
-    sudo rm plexmediaserver
-    sudo service plexmediaserver start 
-    systemctl status plexmediaserver.service
-
 
 
 
